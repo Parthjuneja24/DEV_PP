@@ -61,7 +61,31 @@ function sayHi(name,fun){
     console.log(p);
 }
 
-sayHi("TONY STARK",firstName);
-sayHi("BRUCE WAYNE",lastName);
+// sayHi("TONY STARK",firstName);
+// sayHi("BRUCE WAYNE",lastName);
+
+
+function sayHi(name){
+    console.log(name+"say HIIIII");
+}
+
+let p = sayHi;
+
+// console.log(p);
+
+//lopp odd number
+
+// function odd(){
+//     for(let i =0;i<10;i++){
+//         if(i%2==0){
+//             console.log(i);
+//         }
+//     }
+// }
+// odd();
+
+
+
+
 
 
