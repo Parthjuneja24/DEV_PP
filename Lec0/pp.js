@@ -7,3 +7,6 @@
 /*  abb m change kar raha hu but without checkpoint k sath
 commit k baad ka change h (binna commit)
 direct push
+
+
+commit but no stage
